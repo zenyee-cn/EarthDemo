@@ -1,0 +1,24 @@
+{
+  "imports": {
+    "/index.html": {
+      "entry": [
+        "/_dist_/app.js"
+      ],
+      "css": [
+        "/main.css",
+        "https://fonts.googleapis.com/css?family=Space+Mono:400,700&display=swap"
+      ],
+      "js": [
+        "/_dist_/app.js",
+        "/_dist_/constants.js",
+        "/_dist_/utils/index.js",
+        "/_snowpack/pkg/common/_commonjsHelpers-8c19dec8.js",
+        "/_snowpack/pkg/common/linear-7864e3fe.js",
+        "/_snowpack/pkg/d3.js",
+        "/_snowpack/pkg/dayjs.js",
+        "/_snowpack/pkg/globe.gl.js"
+      ]
+    }
+  },
+  "generated": {}
+}
