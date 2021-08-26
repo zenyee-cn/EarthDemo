@@ -1,7 +1,0 @@
-{
-  "imports": {
-    "d3": "./d3.js",
-    "dayjs": "./dayjs.js",
-    "globe.gl": "./globe.gl.js"
-  }
-}
